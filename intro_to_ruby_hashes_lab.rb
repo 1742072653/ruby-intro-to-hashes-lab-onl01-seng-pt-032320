@@ -11,6 +11,7 @@ def monopoly
 momopoly = {
   :railroads => {}
 }
+<<<<<<< HEAD
 end
 
 def monopoly_with_second_tier
@@ -65,3 +66,6 @@ end
 
 
 
+=======
+end
+>>>>>>> 8e00dd3ac1fb0ed119c58e879a8de4da9950a691
